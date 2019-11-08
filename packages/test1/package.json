@@ -1,6 +1,6 @@
 {
   "name": "nick-shch-test1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "b41e568cb94dc3957819d79d8eff9bcd17aeed45"
 }
